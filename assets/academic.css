@@ -380,6 +380,7 @@ h1 {
 .project-row:first-child { padding-top: 0; border-top: 0; }
 .project-row:last-child { padding-bottom: 0; }
 .section-body .project-row { grid-template-columns: 220px minmax(0, 1fr); gap: 26px; }
+.project-row--text { display: block; }
 .project-visual { min-width: 0; margin: 0; }
 .project-visual > a { display: block; }
 .project-visual img {

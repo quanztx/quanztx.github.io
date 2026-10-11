@@ -151,6 +151,21 @@
     }
   },
   {
+    "slug": "automobile-door-checker",
+    "title": "Automobile Door Checker Mechanism",
+    "title_zh": "一种汽车车门限位装置",
+    "date": "2019–2020",
+    "summary": "A mechanical door checker combining a slotted limiting rod, paired locking elements and spring-loaded deceleration components to regulate door opening.",
+    "role": "Co-inventor, listed fifth on the patent as 全振谭 due to a registration spelling error.",
+    "outcome": "Chinese utility model CN210888469U, granted 30 June 2020; application 201921497267.0.",
+    "patent_url": "https://patents.google.com/patent/CN210888469U/zh",
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      5
+    ],
+    "image": null
+  },
+  {
     "slug": "quadruped-robot",
     "title": "Quadruped Robot Prototype",
     "title_zh": "四足机器人原型",
