@@ -1,0 +1,216 @@
+[
+  {
+    "slug": "liquid-metal-adhesion",
+    "title": "Liquid Metal Phase Transitions and Robotic Adhesion",
+    "title_zh": "液态金属动态相变与机器人黏附",
+    "date": "Experimental research",
+    "summary": "A Ga–Bi–In–Sn liquid metal system for robotic adhesion through controlled phase transitions.",
+    "role": null,
+    "outcome": "Alloy composition screening and DSC characterization support a temperature-controlled demonstration of picking up, holding and placing a cube.",
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      14
+    ],
+    "image": {
+      "src": "/assets/projects/liquid-metal-adhesion.webp",
+      "alt": "Robot arm holding a green cube with the liquid metal adhesion device",
+      "caption": "Experimental robot demonstration using the adhesion device.",
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "slug": "liquid-metal-navigation",
+    "title": "Liquid Metal Motion and Navigation",
+    "title_zh": "液态金属运动与导航",
+    "date": "Exploratory research",
+    "summary": "A robot-assisted laboratory platform for studying magnetic control of liquid metal droplet motion through transparent channels.",
+    "role": null,
+    "outcome": "The project also explores preliminary path planning for liquid metal navigation.",
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      15,
+      16,
+      17
+    ],
+    "image": {
+      "src": "/assets/projects/liquid-metal-navigation.webp",
+      "alt": "Robot-assisted experimental platform with transparent channels for liquid metal motion",
+      "caption": "Experimental setup for liquid metal motion in transparent channels.",
+      "width": 1280,
+      "height": 853
+    }
+  },
+  {
+    "slug": "horizontal-pendulum-teng",
+    "title": "Horizontal Pendulum TENG for Wave Energy",
+    "title_zh": "用于低频波能量收集的水平摆摩擦纳米发电机",
+    "date": "Design & experimental testing",
+    "summary": "A horizontal pendulum triboelectric nanogenerator design and test platform for low-frequency wave energy harvesting.",
+    "role": null,
+    "outcome": "The work investigates mechanical motion and frictional contact-area optimization, with metamorphic mechanism concepts.",
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      23,
+      28,
+      29
+    ],
+    "image": {
+      "src": "/assets/projects/horizontal-pendulum-teng.webp",
+      "alt": "Exploded design concept of a transformable triboelectric nanogenerator module",
+      "caption": "Transformable TENG concept shown alongside the wave-energy project in the presentation.",
+      "width": 520,
+      "height": 496
+    }
+  },
+  {
+    "slug": "robomaster",
+    "title": "RoboMaster Robot Projects",
+    "title_zh": "RoboMaster机器人项目",
+    "date": "2019–2022",
+    "summary": "Mobile robot projects for RoboMaster, with hardware prototypes and an indoor test course.",
+    "role": null,
+    "outcome": null,
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      3
+    ],
+    "image": {
+      "src": "/assets/projects/robomaster.webp",
+      "alt": "Mobile robot on an indoor course with obstacles",
+      "caption": "RoboMaster robot test setup, 2019–2022.",
+      "width": 800,
+      "height": 450
+    }
+  },
+  {
+    "slug": "parallel-mechanism",
+    "title": "Parallel Mechanism Prototype",
+    "title_zh": "并联机构原型",
+    "date": "2021",
+    "summary": "Experimental work on a parallel mechanism with actuated hardware.",
+    "role": null,
+    "outcome": null,
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      3
+    ],
+    "image": {
+      "src": "/assets/projects/parallel-mechanism.webp",
+      "alt": "Close-up of the actuated parallel mechanism hardware",
+      "caption": "Parallel mechanism hardware, 2021.",
+      "width": 400,
+      "height": 712
+    }
+  },
+  {
+    "slug": "standing-assistance-wheelchair",
+    "title": "Standing-Assistance Wheelchair",
+    "title_zh": "可变换行走方式的助起立轮椅",
+    "date": "Patent granted · 2020",
+    "summary": "An assistive wheelchair project with a prototype shown in the presentation and a related design for switchable wheel and crawler mobility and a lifting seat.",
+    "role": "First-listed co-inventor on the related utility model patent.",
+    "outcome": "Related utility model CN211835060U granted in 2020.",
+    "patent_url": "https://patents.google.com/patent/CN211835060U/zh",
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      5
+    ],
+    "image": {
+      "src": "/assets/projects/standing-assistance-wheelchair.webp",
+      "alt": "Wheelchair prototype shown in the presentation",
+      "caption": "Wheelchair prototype shown in the presentation.",
+      "width": 291,
+      "height": 235
+    }
+  },
+  {
+    "slug": "lifting-toilet-assistance",
+    "title": "Toilet-Assistance Device with a Lifting Seat",
+    "title_zh": "一种具有提升装置的坐便辅助器",
+    "date": "2019–2020",
+    "summary": "A mechanical aid designed to assist sitting and standing during toileting, combining an underarm support linkage with a lifting and tilting seat.",
+    "role": "Team design contributor and co-inventor, listed second on the utility model patent.",
+    "outcome": "Utility model CN210748984U granted in 2020.",
+    "patent_url": "https://patents.google.com/patent/CN210748984U/zh",
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      5
+    ],
+    "image": {
+      "src": "/assets/projects/lifting-toilet-assistance.webp",
+      "alt": "CAD model of the toilet-assistance device with a lifting seat and underarm support",
+      "caption": "CAD design of the toilet-assistance device.",
+      "width": 183,
+      "height": 269
+    }
+  },
+  {
+    "slug": "quadruped-robot",
+    "title": "Quadruped Robot Prototype",
+    "title_zh": "四足机器人原型",
+    "date": "2019",
+    "summary": "Early work on a quadruped robot prototype in the Zhejiang Sci-tech University–Unitree joint lab.",
+    "role": null,
+    "outcome": null,
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      3
+    ],
+    "image": {
+      "src": "/assets/projects/quadruped-robot.webp",
+      "alt": "Quadruped robot prototype on a laboratory workbench",
+      "caption": "Quadruped robot prototype, 2019.",
+      "width": 280,
+      "height": 158
+    }
+  },
+  {
+    "slug": "climbing-robot",
+    "title": "Climbing Robot Concept",
+    "title_zh": "攀爬机器人概念",
+    "date": "2019",
+    "summary": "A climbing robot concept built around a mechanism for a vertical pole.",
+    "role": null,
+    "outcome": null,
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      3
+    ],
+    "image": {
+      "src": "/assets/projects/climbing-robot.webp",
+      "alt": "CAD concept of a climbing robot around a vertical pole",
+      "caption": "Climbing robot design concept, 2019.",
+      "width": 400,
+      "height": 226
+    }
+  },
+  {
+    "slug": "ffl",
+    "title": "FFL Robotics Project",
+    "title_zh": "FFL",
+    "date": "2015",
+    "summary": "An early robotics project featuring a mobile robot on a task field.",
+    "role": null,
+    "outcome": null,
+    "patent_url": null,
+    "source_report_date": "2025-10-26",
+    "source_slides": [
+      3
+    ],
+    "image": {
+      "src": "/assets/projects/ffl.webp",
+      "alt": "Mobile robot on the FFL task field",
+      "caption": "FFL robot, 2015.",
+      "width": 400,
+      "height": 226
+    }
+  }
+]
