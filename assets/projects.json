@@ -176,6 +176,13 @@
         "pdf_page": 7,
         "pdf_url": "https://patentimages.storage.googleapis.com/3d/2b/35/f4da48afb70570/CN210888469U.pdf"
       }
+    },
+    "patent_pdf": {
+      "src": "/assets/patents/CN210888469U.pdf",
+      "filename": "CN210888469U.pdf",
+      "pages": 10,
+      "bytes": 513946,
+      "source_url": "https://patentimages.storage.googleapis.com/3d/2b/35/f4da48afb70570/CN210888469U.pdf"
     }
   },
   {
