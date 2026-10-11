@@ -163,7 +163,20 @@
     "source_slides": [
       5
     ],
-    "image": null
+    "image": {
+      "src": "/assets/projects/automobile-door-checker.webp",
+      "alt": "Figure 1 of the automobile door-checking device from patent CN210888469U",
+      "caption": "Figure 1 from utility model patent CN210888469U.",
+      "width": 803,
+      "height": 676,
+      "source": {
+        "kind": "patent_figure",
+        "patent": "CN210888469U",
+        "figure": 1,
+        "pdf_page": 7,
+        "pdf_url": "https://patentimages.storage.googleapis.com/3d/2b/35/f4da48afb70570/CN210888469U.pdf"
+      }
+    }
   },
   {
     "slug": "quadruped-robot",
