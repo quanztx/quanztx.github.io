@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "origami-near-sensor-computing",
+    "title": "Origami self-powered near-sensor computing system using 2D materials for deformation monitoring",
+    "authors": [
+      "Rongjie Zhang",
+      "Qinghao Xu",
+      "Yujie Sun",
+      "Zenan Lin",
+      "Keyou Wu",
+      "Ziwu Song",
+      "Zhentan Quan",
+      "Huaze Tang",
+      "Zihan Wang",
+      "Hongfa Zhao",
+      "Shoujie Li",
+      "Wenbo Ding",
+      "Hui-Ming Cheng",
+      "Bilu Liu"
+    ],
+    "journal": "Device",
+    "year": 2025,
+    "volume": "3",
+    "issue": "12",
+    "pages": null,
+    "article_number": "100933",
+    "doi": "10.1016/j.device.2025.100933",
+    "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2666998625002467",
+    "pdf_url": "https://www.shoujie.top/media/paper/Device2025/paper.pdf",
+    "summary": "An origami-inspired triboelectric device drives two-dimensional vermiculite memory to combine self-powered structural deformation sensing, local computing, and storage.",
+    "summary_zh": "折纸式摩擦电器件直接驱动二维蛭石忆阻器，将结构形变感知、近传感计算和存储集成为自供能系统。",
+    "publication_date": "2025-09-17",
+    "equal_contributors": [
+      "Rongjie Zhang",
+      "Qinghao Xu"
+    ]
+  },
+  {
+    "slug": "tactid",
+    "title": "TacTID: High-Performance Visuo-Tactile Sensor-Based Terrain Identification for Legged Robots",
+    "authors": [
+      "Ziwu Song",
+      "Chenchang Li",
+      "Zhentan Quan",
+      "Shilong Mu",
+      "Xiaosa Li",
+      "Ziyi Zhao",
+      "Wanxin Jin",
+      "Chenye Wu",
+      "Wenbo Ding",
+      "Xiao-Ping Zhang"
+    ],
+    "journal": "IEEE Sensors Journal",
+    "year": 2024,
+    "volume": "24",
+    "issue": "16",
+    "pages": "26487–26495",
+    "article_number": null,
+    "doi": "10.1109/JSEN.2024.3417514",
+    "publisher_url": "https://ieeexplore.ieee.org/document/10576071/",
+    "pdf_url": "https://charon-bo.github.io/assets/PDF/TacTID.pdf",
+    "summary": "A visuo-tactile foot sensor estimates terrain friction and effective stiffness from three-dimensional pressure information for real-time terrain identification with a quadruped robot.",
+    "summary_zh": "视触觉足端传感器利用三维压力分布估计地形摩擦与等效刚度，并在四足机器人上验证实时地形识别。",
+    "publication_date": "2024-06-27",
+    "equal_contributors": [
+      "Ziwu Song",
+      "Chenchang Li"
+    ]
+  },
+  {
+    "slug": "zhao_nml",
+    "title": "A Broad Range Triboelectric Stiffness Sensor for Variable Inclusions Recognition",
+    "authors": [
+      "Ziyi Zhao",
+      "Zhentan Quan",
+      "Huaze Tang",
+      "Qinghao Xu",
+      "Hongfa Zhao",
+      "Zihan Wang",
+      "Ziwu Song",
+      "Shoujie Li",
+      "Ishara Dharmasena",
+      "Changsheng Wu",
+      "Wenbo Ding"
+    ],
+    "journal": "Nano-Micro Letters",
+    "year": 2023,
+    "volume": "15",
+    "issue": null,
+    "pages": null,
+    "article_number": "233",
+    "doi": "10.1007/s40820-023-01201-7",
+    "publisher_url": "https://link.springer.com/article/10.1007/s40820-023-01201-7",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40820-023-01201-7.pdf",
+    "summary": "A self-powered triboelectric stiffness sensor decouples force and displacement signals and applies signal processing and SVM classification to recognize inclusions in soft objects.",
+    "summary_zh": "自供能摩擦电刚度传感器解耦力与位移信息，并结合信号处理及支持向量机识别软物体中的包埋异物。",
+    "publication_date": "2023-10-20",
+    "equal_contributors": [
+      "Ziyi Zhao",
+      "Zhentan Quan",
+      "Huaze Tang"
+    ]
+  }
+]
