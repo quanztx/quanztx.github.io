@@ -68,6 +68,33 @@
     ]
   },
   {
+    "slug": "wave-energy-harvesting",
+    "title": "Spherical 3D fractal structured dual-mode triboelectric nanogenerator for multidirectional low-frequency wave energy harvesting",
+    "authors": [
+      "Boyu Zhu",
+      "Han Wu",
+      "Hanqing Wang",
+      "Zhentan Quan",
+      "Hao Luo",
+      "Lijun Yang",
+      "Ruijin Liao",
+      "Jiyu Wang"
+    ],
+    "journal": "Nano Energy",
+    "year": 2024,
+    "volume": "124",
+    "issue": null,
+    "pages": null,
+    "article_number": "109446",
+    "doi": "10.1016/j.nanoen.2024.109446",
+    "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2211285524001940",
+    "pdf_url": null,
+    "summary": "A spherical, fractal-structured triboelectric nanogenerator combines two operating modes to harvest multidirectional low-frequency wave energy.",
+    "summary_zh": "球形三维分形结构摩擦电纳米发电机结合双模式运行，用于收集多方向低频波浪能。",
+    "publication_date": "2024-06-01",
+    "equal_contributors": []
+  },
+  {
     "slug": "zhao_nml",
     "title": "A Broad Range Triboelectric Stiffness Sensor for Variable Inclusions Recognition",
     "authors": [
