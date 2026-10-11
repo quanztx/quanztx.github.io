@@ -33,7 +33,10 @@
     "equal_contributors": [
       "Rongjie Zhang",
       "Qinghao Xu"
-    ]
+    ],
+    "first_page_url": "/publication/origami-near-sensor-computing/first-page.webp",
+    "first_page_width": 660,
+    "first_page_height": 856
   },
   {
     "slug": "tactid",
@@ -65,7 +68,10 @@
     "equal_contributors": [
       "Ziwu Song",
       "Chenchang Li"
-    ]
+    ],
+    "first_page_url": "/publication/tactid/first-page.webp",
+    "first_page_width": 660,
+    "first_page_height": 853
   },
   {
     "slug": "wave-energy-harvesting",
@@ -88,11 +94,18 @@
     "article_number": "109446",
     "doi": "10.1016/j.nanoen.2024.109446",
     "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2211285524001940",
-    "pdf_url": null,
+    "pdf_url": "https://quanztx.github.io/publication/wave-energy-harvesting/paper.pdf",
     "summary": "A spherical, fractal-structured triboelectric nanogenerator combines two operating modes to harvest multidirectional low-frequency wave energy.",
     "summary_zh": "球形三维分形结构摩擦电纳米发电机结合双模式运行，用于收集多方向低频波浪能。",
-    "publication_date": "2024-06-01",
-    "equal_contributors": []
+    "publication_date": "2024-03-04",
+    "equal_contributors": [
+      "Boyu Zhu",
+      "Han Wu",
+      "Hanqing Wang"
+    ],
+    "first_page_url": "/publication/wave-energy-harvesting/first-page.webp",
+    "first_page_width": 660,
+    "first_page_height": 879
   },
   {
     "slug": "zhao_nml",
@@ -126,6 +139,9 @@
       "Ziyi Zhao",
       "Zhentan Quan",
       "Huaze Tang"
-    ]
+    ],
+    "first_page_url": "/publication/zhao_nml/first-page.webp",
+    "first_page_width": 660,
+    "first_page_height": 876
   }
 ]

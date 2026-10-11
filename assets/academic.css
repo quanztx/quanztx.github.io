@@ -240,13 +240,40 @@ h1 {
 .publication-list { margin: 0; padding: 0; list-style: none; }
 .publication-row {
   display: grid;
-  grid-template-columns: 52px minmax(0, 1fr);
+  grid-template-columns: 136px minmax(0, 1fr);
   gap: 24px;
   padding-block: 29px 31px;
   border-top: 1px solid var(--rule);
 }
 .publication-row:first-child { padding-top: 0; border-top: 0; }
 .publication-row:last-child { padding-bottom: 0; }
+.pub-visual { min-width: 0; }
+.pub-thumbnail {
+  display: block;
+  margin-bottom: 12px;
+  border: 1px solid var(--rule);
+  background: #fff;
+  box-shadow: 0 3px 12px rgb(20 44 48 / .07);
+  transition: border-color .15s ease;
+}
+.pub-thumbnail:hover { border-color: var(--accent); }
+.pub-thumbnail img { display: block; width: 100%; height: auto; }
+.pub-preview-unavailable {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+  aspect-ratio: 3 / 4;
+  padding: 12px 8px;
+  color: var(--muted);
+  background: var(--soft);
+  font-size: 10px;
+  text-align: center;
+  line-height: 1.6;
+  text-decoration: none;
+  box-shadow: none;
+}
+.preview-file-label { color: var(--accent); font-size: 20px; font-weight: 600; letter-spacing: .04em; }
 .pub-year { padding-top: 3px; color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
 .pub-content { min-width: 0; }
 .pub-meta { margin: 0 0 9px; color: var(--accent); font-size: 11px; font-weight: 600; letter-spacing: .06em; line-height: 1.6; text-transform: uppercase; }
@@ -360,7 +387,7 @@ h1 {
   .research-item h3 { margin-bottom: 8px; }
   .research-item p { margin-bottom: 0; }
   .research-item .tags { margin-top: 10px; }
-  .publication-row { gap: 18px; }
+  .publication-row { grid-template-columns: 108px minmax(0, 1fr); gap: 18px; }
   .education-row, .experience-row { grid-template-columns: 100px minmax(0, 1fr); gap: 18px; }
 }
 
@@ -391,10 +418,10 @@ h1 {
   .research-grid { gap: 25px; }
   .research-item h3 { font-size: 16px; }
   .research-item p { font-size: 14px; }
-  .publication-row { grid-template-columns: minmax(0, 1fr); gap: 7px; padding-block: 25px 28px; }
+  .publication-row { grid-template-columns: 82px minmax(0, 1fr); gap: 14px; padding-block: 25px 28px; }
   .pub-year { padding: 0; font-size: 12px; }
   .pub-meta { margin-bottom: 8px; font-size: 10px; }
-  .pub-title { margin-bottom: 11px; font-size: 23px; line-height: 1.4; }
+  .pub-title { margin-bottom: 11px; font-size: 20px; line-height: 1.4; }
   .pub-authors { font-size: 12px; }
   .pub-summary { font-size: 13px; }
   .pub-links { gap: 10px 18px; }
